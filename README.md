@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kakadu31
 - 👀 I’m interested in robotics, automatation.
-- 🌱 I’m currently learning python, java, c (maybe some rust?).
+- 🌱 I’m currently using python, java, c (maybe learning some rust in the future?).
 - 💞️ I’m looking to collaborate on robotics, automatation.
 
 <!---
